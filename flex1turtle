@@ -1,0 +1,18 @@
+import turtle
+
+TK_SILENCE_DEPRECATION=1
+turtle.setup(400, 400, 0, 0)
+
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(45)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(50)
+turtle.done()
